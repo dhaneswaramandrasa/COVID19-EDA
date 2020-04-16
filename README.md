@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Installation](#markdown-header-my-first-title)
+1. [Installation](#markdown-header-my-second-title)
 2. Project Motivation
 3. File Descriptions
 4. Results
