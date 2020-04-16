@@ -30,5 +30,5 @@ The main findings of the code can be seen here.
 
 # Licensing, Authors, Acknowledgements
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link available here and here. Otherwise, feel free to use the code here as you would like!
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) and also [here](https://www.kaggle.com/koryto/countryinfo). Otherwise, feel free to use the code here as you would like!
 
