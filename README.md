@@ -1,10 +1,10 @@
 # Table of Contents
 
 1. [Installation](#ins)
-2. Project Motivation (#pro)
-3. File Descriptions (#fil)
-4. Results (#res)
-5. Licensing, Authors and Acknowledgements (#lic)
+2. [Project Motivation] (#pro)
+3. [File Descriptions] (#fil)
+4. [Results] (#res)
+5. [Licensing, Authors and Acknowledgements] (#lic)
 
 <a name="ins"></a>
 # Installation
