@@ -30,7 +30,7 @@ The full set of data is available here, while the updated data is available in K
 <a name="res"></a>
 # Result
 
-The main findings of the code can be seen here.
+The main findings of the code can be seen [here](https://medium.com/@dhaneswara.mandrasa/covid-19-this-is-why-some-countries-suffer-more-than-others-6ca7ee3e3c25).
 
 <a name="lic"></a>
 # Licensing, Authors, Acknowledgements
