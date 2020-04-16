@@ -1,11 +1,12 @@
 # Table of Contents
 
-1. [Installation](# Installation)
+1. [Installation](#ins)
 2. Project Motivation
 3. File Descriptions
 4. Results
 5. Licensing, Authors and Acknowledgements
 
+<a name="ins"></a>
 # Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
